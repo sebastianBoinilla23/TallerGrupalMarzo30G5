@@ -29,8 +29,8 @@ int menu( ){
     printf("MENU:\n");
 	printf("=====================\n");
     printf("1: Ingresar donador\n");
-    printf("2: ver muestas\n");
-	printf("3: transfusio\n");
+    printf("2: ver muestras\n");
+	printf("3: transfusion\n");
 	printf("4: agregar paciente\n");
     printf("0: Salir\n");
     scanf("%d", &opc);
